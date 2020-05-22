@@ -3,7 +3,7 @@
 
 Create networks of N dimensional binary images for analysis with python using NetworkX and NumPy.
 
-By [Ashkan Pakzad](ashkanpakzad.github.io)
+By [Ashkan Pakzad](https://ashkanpakzad.github.io)
 
 ## Getting Started
 
