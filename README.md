@@ -1,5 +1,7 @@
 # ImageNetwork
-Python Package to create networks of N dimensional binary images for analysis.
+[![PyPI version](https://badge.fury.io/py/ImageNetwork.svg)](https://badge.fury.io/py/ImageNetwork)
+
+Create networks of N dimensional binary images for analysis with python using NetworkX and NumPy.
 
 By [Ashkan Pakzad](ashkanpakzad.github.io)
 
